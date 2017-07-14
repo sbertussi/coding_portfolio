@@ -1,0 +1,18 @@
+﻿  Source.cpp
+c:\users\studentuser\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\source.cpp(59): warning C4101: 'stock': unreferenced local variable
+c:\users\studentuser\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\source.cpp(143): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\studentuser\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\source.cpp(162): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\studentuser\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\source.cpp(172): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\studentuser\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\source.cpp(409): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\studentuser\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\source.cpp(410): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\studentuser\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\source.cpp(411): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\studentuser\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\source.cpp(419): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\studentuser\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\source.cpp(420): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\studentuser\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\source.cpp(421): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\studentuser\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\source.cpp(429): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\studentuser\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\source.cpp(430): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\studentuser\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\source.cpp(431): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\studentuser\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\source.cpp(300): warning C4101: 'test': unreferenced local variable
+c:\users\studentuser\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\source.cpp(127): warning C4715: 'Manage': not all control paths return a value
+  ConsoleApplication6.vcxproj -> C:\Users\StudentUser\Documents\Visual Studio 2015\Projects\ConsoleApplication6\Debug\ConsoleApplication6.exe
+  ConsoleApplication6.vcxproj -> C:\Users\StudentUser\Documents\Visual Studio 2015\Projects\ConsoleApplication6\Debug\ConsoleApplication6.pdb (Full PDB)

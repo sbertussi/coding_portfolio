@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\studentuser\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\source.cpp(1037): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\studentuser\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\source.cpp(1050): warning C4101: 'choice': unreferenced local variable
+c:\users\studentuser\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\source.cpp(150): warning C4715: 'outline': not all control paths return a value
+c:\users\studentuser\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\source.cpp(95): warning C4715: 'bell': not all control paths return a value
+c:\users\studentuser\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\source.cpp(590): warning C4715: 'ending': not all control paths return a value
+c:\users\studentuser\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\source.cpp(342): warning C4715: 'Entrance': not all control paths return a value
+c:\users\studentuser\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\source.cpp(1011): warning C4715: 'lastChance': not all control paths return a value
+c:\users\studentuser\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\source.cpp(698): warning C4715: 'Room::color': not all control paths return a value
+  ConsoleApplication2.vcxproj -> C:\Users\StudentUser\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Users\StudentUser\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)
